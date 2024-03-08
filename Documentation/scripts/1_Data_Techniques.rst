@@ -1,6 +1,6 @@
 Data Collection Techniques used in this project
 ====================================
-- :doc:`webscraping`
+- :doc:`1_1_webscraping`
 - Surveys and questionnaires
 - Interviews
 - Observations

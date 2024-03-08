@@ -26,6 +26,6 @@ See the :doc:`Documentation/Pipeline` section for more details.
    :maxdepth: 0
    :caption: Table of Content:
 
-   Documentation/Pipeline
-   Documentation/Data_Techniques
+   Documentation/scripts/Pipeline
+   Documentation/scripts/1_Data_Techniques
    
