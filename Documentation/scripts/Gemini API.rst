@@ -5,16 +5,16 @@ L'API Gemini LLM Multimodal est un outil puissant pour intégrer des fonctionnal
 
 - **Première étape: accéder à ce repo `<https://github.com/omvriio/gemini_api>` **
     - Installer Git bash si vous ne l'avez pas déjà :
-        windows: `<https://git-scm.com/download/win>`
-        mac: `<https://git-scm.com/download/mac>`
-        linux: `<https://git-scm.com/download/linux>`
+        windows: `https://git-scm.com/download/win`
+        mac: `https://git-scm.com/download/mac`
+        linux: `https://git-scm.com/download/linux`
     - Sur VSCode : 
         - Utiliser le raccourci `Ctrl + Shift + P`
         - Chercher Git: Cloner ou Git: Clone (en anglais)
-        - Coller le lien du repo `<https://github.com/omvriio/gemini_api>` dans la barre de recherche
+        - Coller le lien du repo `https://github.com/omvriio/gemini_api` dans la barre de recherche
         - Choisir un dossier de destination pour le repository
 - **Deuxième étape: obtenir une clé API**
-    - Allez sur : `<https://aistudio.google.com/app/apikey>`
+    - Allez sur : `https://aistudio.google.com/app/apikey`
     - Cliquez sur "Créer une clé API"
     - Copier la clé API et Coller la dans le fichier .env sans les guillemets
 

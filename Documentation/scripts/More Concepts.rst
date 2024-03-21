@@ -7,7 +7,7 @@ Les CNN sont un type de modèle d'apprentissage profond particulièrement effica
 
 Les principaux composants d'un CNN comprennent des couches de convolution, des couches de pooling et des couches entièrement connectées. Les couches de convolution appliquent des filtres à l'image d'entrée, extrayant des caractéristiques locales et préservant les relations spatiales. Les couches de pooling réduisent les dimensions spatiales des cartes de caractéristiques et extraient les caractéristiques les plus importantes. Les couches entièrement connectées relient les caractéristiques extraites à la couche de sortie pour la classification.
 
-Pour plus d'informations, vous pouvez vous référer à ce `projet Coursera de 2 heures <https://www.coursera.org/projects/object-localization-tensorflow>`_.
+Pour plus d'informations, vous pouvez vous référer à ce `projet Coursera de 2 heures https://www.coursera.org/projects/object-localization-tensorflow`_.
 
 
 Mémoire à court terme à long terme (LSTM)
@@ -18,4 +18,4 @@ Les principaux composants d'un LSTM comprennent la porte d'entrée, la porte d'o
 
 Les CNN et les LSTM ont été largement utilisés dans diverses applications et ont atteint des performances de pointe dans de nombreuses tâches. Comprendre les principes et les architectures de ces modèles est essentiel pour construire des systèmes d'apprentissage profond avancés.
 
-Pour plus d'informations, vous pouvez vous référer à ce `projet Coursera de 1,5 heure <https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow>`_.
+Pour plus d'informations, vous pouvez vous référer à ce `projet Coursera de 1,5 heure https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow`.
