@@ -1,4 +1,4 @@
-Démarrer avec Gemini 🚀
+Démarrer avec Gemini API🚀
 =========================
 
 L'API Gemini LLM Multimodal est un outil puissant pour intégrer des fonctionnalités multimodales dans vos applications. Il fournit une interface transparente pour accéder et contrôler différents modes de transport, tels que les voitures, les vélos et les transports en commun, le tout au sein d'une seule API.
