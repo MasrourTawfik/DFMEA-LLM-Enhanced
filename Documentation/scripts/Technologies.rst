@@ -1,4 +1,4 @@
-Technologies Utilisées
+Concepts Utilisés
 -----------------
 
 .. toctree::
@@ -8,4 +8,5 @@ Technologies Utilisées
     Fine tuning
     RAG
     webscraping
-    Data_Techniques
+    Gemini API
+    More Concepts
